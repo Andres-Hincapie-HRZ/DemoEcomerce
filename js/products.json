@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone Galaxy S23",
+    "price": 899.99,
+    "description": "Smartphone de última generación con cámara de 108MP, pantalla AMOLED de 6.8 pulgadas y procesador de alto rendimiento.",
+    "category": "Tecnología",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c21hcnRwaG9uZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 2,
+    "name": "Laptop UltraBook Pro",
+    "price": 1299.99,
+    "description": "Laptop ultradelgada con procesador Intel Core i7, 16GB RAM, 512GB SSD y pantalla de 15.6 pulgadas Full HD.",
+    "category": "Tecnología",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 3,
+    "name": "Auriculares Inalámbricos",
+    "price": 149.99,
+    "description": "Auriculares con cancelación de ruido, 30 horas de batería y sonido de alta fidelidad.",
+    "category": "Tecnología",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aGVhZHBob25lc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch Fitness",
+    "price": 199.99,
+    "description": "Reloj inteligente con monitor de ritmo cardíaco, GPS, resistente al agua y batería de larga duración.",
+    "category": "Tecnología",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c21hcnR3YXRjaHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 5,
+    "name": "Camiseta Premium",
+    "price": 29.99,
+    "description": "Camiseta de algodón 100% de alta calidad, corte regular y disponible en varios colores.",
+    "category": "Ropa",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dHNoaXJ0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 6,
+    "name": "Jeans Clásicos",
+    "price": 59.99,
+    "description": "Jeans de corte recto, tejido duradero y cómodo, perfectos para el día a día.",
+    "category": "Ropa",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8amVhbnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 7,
+    "name": "Zapatillas Deportivas",
+    "price": 89.99,
+    "description": "Zapatillas ligeras con amortiguación superior, ideales para running y entrenamiento diario.",
+    "category": "Ropa",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c25lYWtlcnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 8,
+    "name": "Chaqueta de Invierno",
+    "price": 129.99,
+    "description": "Chaqueta impermeable con forro térmico, capucha ajustable y múltiples bolsillos.",
+    "category": "Ropa",
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8amFja2V0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 9,
+    "name": "Sofá Modular",
+    "price": 799.99,
+    "description": "Sofá modular de 3 plazas con tapizado de alta resistencia y cojines extraíbles.",
+    "category": "Hogar",
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c29mYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 10,
+    "name": "Mesa de Comedor",
+    "price": 349.99,
+    "description": "Mesa de comedor para 6 personas, fabricada en madera maciza con acabado natural.",
+    "category": "Hogar",
+    "image": "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGluaW5nJTIwdGFibGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 11,
+    "name": "Lámpara de Pie",
+    "price": 89.99,
+    "description": "Lámpara de pie moderna con luz LED ajustable, perfecta para sala de estar o dormitorio.",
+    "category": "Hogar",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zmxvb3IlMjBsYW1wfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 12,
+    "name": "Juego de Sábanas",
+    "price": 59.99,
+    "description": "Juego de sábanas 100% algodón egipcio, suaves y duraderas, disponibles en varios colores.",
+    "category": "Hogar",
+    "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVkJTIwc2hlZXRzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 13,
+    "name": "Collar de Plata",
+    "price": 79.99,
+    "description": "Collar de plata esterlina 925 con diseño minimalista y elegante, perfecto para cualquier ocasión.",
+    "category": "Accesorios",
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmVja2xhY2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 14,
+    "name": "Reloj Analógico",
+    "price": 149.99,
+    "description": "Reloj analógico con correa de cuero genuino, movimiento de cuarzo y diseño clásico.",
+    "category": "Accesorios",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2F0Y2h8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 15,
+    "name": "Bolso de Cuero",
+    "price": 119.99,
+    "description": "Bolso de cuero genuino con múltiples compartimentos, correa ajustable y cierre seguro.",
+    "category": "Accesorios",
+    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGVhdGhlciUyMGJhZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 16,
+    "name": "Gafas de Sol",
+    "price": 89.99,
+    "description": "Gafas de sol con protección UV400, montura ligera y diseño atemporal.",
+    "category": "Accesorios",
+    "image": "https://images.unsplash.com/photo-1577803645773-f96470509666?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3VuZ2xhc3Nlc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 17,
+    "name": "Juego de Sartenes",
+    "price": 129.99,
+    "description": "Juego de 3 sartenes antiadherentes con mango ergonómico y aptas para todo tipo de cocinas.",
+    "category": "Cocina",
+    "image": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFuc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 18,
+    "name": "Batidora de Pie",
+    "price": 249.99,
+    "description": "Batidora de pie con 10 velocidades, bol de acero inoxidable y múltiples accesorios.",
+    "category": "Cocina",
+    "image": "https://images.unsplash.com/photo-1594222082000-24ea0013ae6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWl4ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 19,
+    "name": "Juego de Cuchillos",
+    "price": 99.99,
+    "description": "Juego de 6 cuchillos profesionales de acero inoxidable con bloque de madera.",
+    "category": "Cocina",
+    "image": "https://images.unsplash.com/photo-1593618998160-e34014e67546?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8a25pdmVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 20,
+    "name": "Cafetera Automática",
+    "price": 179.99,
+    "description": "Cafetera automática programable con molinillo integrado y capacidad para 12 tazas.",
+    "category": "Cocina",
+    "image": "https://images.unsplash.com/photo-1520970519539-8c9eaad9e8fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29mZmVlJTIwbWFrZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  }
+] 
